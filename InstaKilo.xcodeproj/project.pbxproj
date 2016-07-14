@@ -27,6 +27,7 @@
 		4084649D1D36BD9200BBB2AA /* photo8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 408464931D36BD9200BBB2AA /* photo8.jpg */; };
 		4084649E1D36BD9200BBB2AA /* photo9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 408464941D36BD9200BBB2AA /* photo9.jpg */; };
 		408464A11D36C6E300BBB2AA /* MyImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 408464A01D36C6E300BBB2AA /* MyImage.m */; };
+		408464A41D37093F00BBB2AA /* HeaderCollectionReuseableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 408464A31D37093F00BBB2AA /* HeaderCollectionReuseableView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,8 @@
 		408464941D36BD9200BBB2AA /* photo9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo9.jpg; sourceTree = "<group>"; };
 		4084649F1D36C6E300BBB2AA /* MyImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyImage.h; path = Assets.xcassets/photos/MyImage.h; sourceTree = "<group>"; };
 		408464A01D36C6E300BBB2AA /* MyImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyImage.m; path = Assets.xcassets/photos/MyImage.m; sourceTree = "<group>"; };
+		408464A21D37093F00BBB2AA /* HeaderCollectionReuseableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderCollectionReuseableView.h; sourceTree = "<group>"; };
+		408464A31D37093F00BBB2AA /* HeaderCollectionReuseableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeaderCollectionReuseableView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +140,8 @@
 				408464881D36BAF500BBB2AA /* MyCollectionViewCell.m */,
 				4084649F1D36C6E300BBB2AA /* MyImage.h */,
 				408464A01D36C6E300BBB2AA /* MyImage.m */,
+				408464A21D37093F00BBB2AA /* HeaderCollectionReuseableView.h */,
+				408464A31D37093F00BBB2AA /* HeaderCollectionReuseableView.m */,
 				408464601D36B99D00BBB2AA /* Assets.xcassets */,
 				408464621D36B99D00BBB2AA /* LaunchScreen.storyboard */,
 				408464651D36B99D00BBB2AA /* Info.plist */,
@@ -333,6 +338,7 @@
 				408464A11D36C6E300BBB2AA /* MyImage.m in Sources */,
 				408464591D36B99D00BBB2AA /* AppDelegate.m in Sources */,
 				408464891D36BAF500BBB2AA /* MyCollectionViewCell.m in Sources */,
+				408464A41D37093F00BBB2AA /* HeaderCollectionReuseableView.m in Sources */,
 				408464561D36B99D00BBB2AA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

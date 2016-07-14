@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AA4A15CAE35A9E67E2E080268DDBEE514A0BDF1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "198491D51858A14A51297DC31D2AE31251C02D6B" : 0,
+    "AA4A15CAE35A9E67E2E080268DDBEE514A0BDF1D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D7A649CF-1EBD-49F4-9042-A42821163A77",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "198491D51858A14A51297DC31D2AE31251C02D6B" : "..",
+    "AA4A15CAE35A9E67E2E080268DDBEE514A0BDF1D" : "InstaKilo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "InstaKilo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "InstaKilo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeffeom\/obj_c.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "198491D51858A14A51297DC31D2AE31251C02D6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeffeom\/InstaKilo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA4A15CAE35A9E67E2E080268DDBEE514A0BDF1D"
+    }
+  ]
+}
